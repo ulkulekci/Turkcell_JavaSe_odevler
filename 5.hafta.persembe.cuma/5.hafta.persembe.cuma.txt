@@ -1,0 +1,10 @@
+      ARASTİRMA ODEVLERİ
+1) Erisim belirleyicileri kendi aranızda tartışınız.(public,protected,private,default)
+2) Syntax error - logic error - compiler error -run time error exception - error ?
+
+      PROJE ODEVLERİ
+1) kullanıcı tarafından girilen bir kelimeyi tersten yazdıran Algoritma ?
+  * yazdığınız kelime kaç harfli ?
+  * Hamit ==> timaH
+  * kullanıcıdan alınan data
+2) Hafta ici yapilan tum ornekleri kendiniz cozun.

@@ -7,6 +7,17 @@
 // exception - error ?
 // stack memory heap memory nedir ? aralarındaki farklar ?
 // open source nedir ?
+// klavye.close(); yapisi ne ise yarar?
+// Random ve classRandom ne anlama geliyor?
+//  
+		// Random
+		double mathRandom = Math.round(Math.random() * 4 + 1);
+		System.out.println(mathRandom);
+		
+		// Class Düzeyinde (Object)
+		Random random = new Random();
+		int classRandom = random.nextInt(4) + 2;
+		System.out.println(classRandom);
 	
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++Salı
 // JdK JRE JVM nedir ?
@@ -23,3 +34,6 @@
 // not ortalaması: 84<=x<=100 AA
 
  2) girilen bir sayının asal olup olmaması kodlayan algoritma
+ 3) klavyeden girilen bir input sayÄ± mÄ± ? harf mi ? yoksa Ã¶zel karakter
+		// mi ?
+		// Character.isLetter() Character.isDigit()
